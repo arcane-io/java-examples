@@ -3,7 +3,7 @@ package ccm.examples.threads;
 /**
  * @link https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html .
  *
- * @author Catalin Manolescu <cc.manolescu@gmail.com>
+ * @author Catalin Manolescu (cc.manolescu@gmail.com)
  */
 public class SimpleConcurrencyExample {
 
